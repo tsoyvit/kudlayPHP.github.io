@@ -10,7 +10,7 @@
                             <h5 class="card-title"><a href="post?id=<?= $post['id'] ?>"><?= $post['title'] ?></a>
                             </h5>
                             <p class="card-text"><?= $post['excerpt'] ?></p>
-                            <a href="post?id=<?= $post['id'] ?>">Go somewhere</a>
+                            <a href="post?id=<?= $post['id'] ?>">Go somewher</a>
                         </div>
                     </div>
                 <?php endforeach; ?>

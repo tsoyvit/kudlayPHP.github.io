@@ -9,7 +9,7 @@
 
 $title  = 'My Blog::About';
 
-$post = '                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, cupiditate doloribus id ipsa
+$post = '                    <p>Lorem psum dolor sit amet, consectetur adipisicing elit. Cum, cupiditate doloribus id ipsa
                         minima quas rem vero. Alias assumenda aut eveniet minus neque odit quam quibusdam repellendus,
                         veritatis voluptas. Aspernatur.</p>
                     <p>At culpa deleniti excepturi sed, ullam voluptatum! Amet assumenda at cupiditate deserunt
